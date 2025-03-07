@@ -7,16 +7,16 @@
 </a>
 
 
-- 🔭 I’m currently working on SCU CD PRC
+- 🔭 I’m currently working on The Hong Kong Polytechnic University, Hong Kong.
 
 
-- 🌱 I’m currently learning machine learning and neural network
+- 🌱 I’m currently learning LLM and AI Agent.
 
 
-- 👯 I’m looking to collaborate on Chengdu  and Hangzhou
+- 👯 I’m looking to collaborate on Hong Kong  and Hangzhou.
 
 
-- 📫 How to reach me: 1499765600@qq.com
+- 📫 How to reach me: zhuohang.jiang@connect.polyu.hk
 
 
 - 😄 Declaration: Do not go gentle into that good night 
