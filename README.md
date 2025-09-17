@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning LLM and AI Agent.
 
 
-- 👯 I’m looking to collaborate on Hong Kong  and Hangzhou.
+- 👯 I’m looking to collaborate on Beijing, Hong Kong  and Hangzhou.
 
 
 - 📫 How to reach me: zhuohang.jiang@connect.polyu.hk
